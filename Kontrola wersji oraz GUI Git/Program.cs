@@ -10,6 +10,8 @@ namespace Kontrola_wersji_oraz_GUI_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git");
+            Console.ReadKey();
         }
     }
 }
